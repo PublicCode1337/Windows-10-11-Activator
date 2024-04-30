@@ -1,2 +1,16 @@
 # Windows-10-11-Activator
-Activate your Windows 10/11 Home, Professionell or Enterprise
+
+- Batch activator
+-----------------------------
+Supported Editions:
+- HOME
+- PRO
+- ENTERPRISE
+-----------------------------
+Supported Windows Versions:
+- 10
+- 11
+----------------------------
+
+you need help / support?
+- then [Click here!](https://dc.cerya.de)
