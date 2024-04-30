@@ -2,7 +2,7 @@
 
 - Batch activator
 -----------------------------
-- IMPORTANT INFORMATIONS
+# IMPORTANT INFORMATIONS
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
