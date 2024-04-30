@@ -17,6 +17,7 @@ Supported Editions:
 - HOME
 - PRO
 - ENTERPRISE
+---
 !! MORE WILL BE ADDED SOON !!
 -----------------------------
 Supported Windows Versions:
