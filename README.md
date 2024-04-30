@@ -2,14 +2,26 @@
 
 - Batch activator
 -----------------------------
+- IMPORTANT INFORMATIONS
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+RUN THIS BATCH FILE AS ADMINISTRATOR OR THE ACTIVATION PROCCESS WILL NOT WORK
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+-----------------------------
 Supported Editions:
 - HOME
 - PRO
 - ENTERPRISE
 -----------------------------
 Supported Windows Versions:
-- 10
-- 11
+!! MORE WINDOWS VERSIONS WILL COMING SOON !!
+- 10 ✅
+- 11 ✅
 ----------------------------
 
 you need help / support?
